@@ -1,11 +1,8 @@
-# IBM Coursera Applied Data Science Capstone - August of 2019 by Reza Hashemi
-# 
-
 | Name | Description | Date
 | :- |-------------: | :-:
-| **Reza Hashemi**| **IBM Master of Data Science Professional.**  | __On 15th of August at 2019 00:18 A.M.__
+| **Reza Hashemi**| **IBM MASTER of Data Science Professional.**  | __On 15th of August at 2019 00:18 A.M.__
 
-## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) HarvardX's Data Science Professional Certificate.
+## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) IBM's MASTER of Data Science Professional Certificate.
 
 
 • **What is Data Science?**
