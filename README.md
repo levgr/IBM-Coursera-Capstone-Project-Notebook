@@ -5,7 +5,7 @@ __ __ __
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) IBM's MASTER of Data Science Professional Certificate.
 
 
-• **What is Data Science?**
+- • **What is Data Science?**
 • **Open Source tools for Data Science**
 • **Data Science Methodology**
 • **Python for Data Science and AI**
