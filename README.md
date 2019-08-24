@@ -25,7 +25,7 @@ several labs and assignments on the cloud including a Capstone
 Project at the end to apply and demonstrate their knowledge and
 skills..__
 
-![IBM Master of Data Science Certification](Specialization+Certificate+Emblem+-+IDS+-+Final.png)
+![IBM Master of Data Science Certification](Specialization+Certificate+Emblem+-+IDS+-+Final.png) |
 ![IBM Master of Data Science Certification](Professional_Certificate_Data_Science_Final_Draft_Blue_Text.png)
 
 ![IBM Master of Data Science Certification](IBM%20Data%20Science%20Professional%20Certificate.PNG)
