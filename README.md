@@ -30,3 +30,5 @@ skills..__
 
 ![IBM Master of Data Science Certification](IBM%20Data%20Science%20Professional%20Certificate.PNG)
 __ __ __
+
+<a href="https://info.flagcounter.com/kvwH"><img src="https://s01.flagcounter.com/countxl/kvwH/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
