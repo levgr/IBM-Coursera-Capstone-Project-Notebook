@@ -25,7 +25,20 @@ several labs and assignments on the cloud including a Capstone
 Project at the end to apply and demonstrate their knowledge and
 skills..__
 
-![IBM Master of Data Science Certification](Specialization+Certificate+Emblem+-+IDS+-+Final.png)
+<a href="https://www.youracclaim.com/earner/earned/badge/5ae63025-0240-4bd3-9dd4-f4cbcf547454/">
+    <img src="Specialization+Certificate+Emblem+-+IDS+-+Final.png" width="350" align="center">
+</a>
+
+<a href="https://youracclaim.com/earner/earned/badge/df3771fe-5980-4b85-8b44-ca96633b577e/">
+    <img src="IBM_Advanced_data_Science_Capstone.PNG" width="350" align="center">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/749V55JRJS3F/">
+    <img src="IBM%20Data%20Science%20Professional%20Certificate.PNG" width="350" align="center">
+</a>
+
+https://www.youracclaim.com/earner/earned/badge/df3771fe-5980-4b85-8b44-ca96633b577e
+
 ![IBM Master of Data Science Certification](Professional_Certificate_Data_Science_Final_Draft_Blue_Text.png)
 
 ![IBM Master of Data Science Certification](IBM%20Data%20Science%20Professional%20Certificate.PNG)
