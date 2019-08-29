@@ -34,14 +34,9 @@ skills..__
 </a>
 
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/749V55JRJS3F/">
-    <img src="IBM%20Data%20Science%20Professional%20Certificate.PNG" width="350" align="center">
+    <img src="IBM%20Data%20Science%20Professional%20Certificate.PNG" width="400" align="center">
 </a>
 
-https://www.youracclaim.com/earner/earned/badge/df3771fe-5980-4b85-8b44-ca96633b577e
-
-![IBM Master of Data Science Certification](Professional_Certificate_Data_Science_Final_Draft_Blue_Text.png)
-
-![IBM Master of Data Science Certification](IBM%20Data%20Science%20Professional%20Certificate.PNG)
 __ __ __
 
 <a href="https://info.flagcounter.com/kvwH"><img src="https://s01.flagcounter.com/countxl/kvwH/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
