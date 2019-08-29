@@ -34,7 +34,7 @@ skills..__
 </a>
 
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/749V55JRJS3F/">
-    <img src="IBM%20Data%20Science%20Professional%20Certificate.PNG" width="400" align="center">
+    <img src="IBM%20Data%20Science%20Professional%20Certificate.PNG" width="700" align="center">
 </a>
 
 __ __ __
