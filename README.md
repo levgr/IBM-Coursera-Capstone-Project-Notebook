@@ -30,7 +30,7 @@ skills..__
 </a>
 
 <a href="https://youracclaim.com/earner/earned/badge/df3771fe-5980-4b85-8b44-ca96633b577e/">
-    <img src="IBM_Advanced_data_Science_Capstone.PNG" width="350" align="center">
+    <img src="Professional_Certificate_Data_Science_Final_Draft_Blue_Text.png" width="350" align="center">
 </a>
 
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/749V55JRJS3F/">
